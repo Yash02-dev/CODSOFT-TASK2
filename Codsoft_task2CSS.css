@@ -1,0 +1,430 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.nav-bar{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 650px;
+}
+
+.nav-bar a{
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+.sec-bar{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 40px;
+}
+
+.inner{
+    margin-top: 20px;
+}
+.sec-text a{
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+.sec-text p{
+    margin-top: 15px;
+    font-size: 35px;
+    color: rgb(113, 113, 113);
+
+}
+
+.sec-bar img{
+    margin-left: 60px;
+    height: 550px;
+}
+
+.logo{
+    display: flex;
+    margin-top: 30px;
+}
+.git{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    background-color:black;
+    color: white;
+    font-size: 20px;
+
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    background-color:#1274aa;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+
+.google{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    background-color:#e94836;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+
+.twit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    border-radius: 25px;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+
+.face{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    background-color:#38599a;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+
+.button{
+    display: flex;
+    margin-top: 60px;
+}
+
+.b1 button{
+    height: 40px;
+    width: 130px;
+    background-color: #55198b;
+    color: white;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.b2 button{
+    height: 40px;
+    width: 160px;
+    background-color: #55198b;
+    color: white;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin-left: 50px;
+}
+
+.third-bar{
+    display: flex;
+}
+
+.text3 {
+    margin-top: 80px;
+    margin-left: 60px;
+    
+}
+
+.text3 a{
+    font-size: 50px;
+    font-weight: 800;
+    
+}
+
+.text3 p{
+    font-size: 28px;
+    margin-top: 10px;
+    color:#868e96;
+}
+
+.app-logo1{
+    display: flex;
+    font-size:60px;
+    margin-top:20px;
+    margin-left: 30px;
+    color: #868e96;
+}
+
+.app-logo1 i{
+    margin-left: 30px;
+    
+}
+
+.app-logo2{
+    display: flex;
+    font-size:60px;
+    margin-top:20px;
+    margin-left: 190px;
+    color: #868e96;
+}
+
+.app-logo2 i{
+    margin-left: 30px;
+}
+
+.app-text{
+    margin-top: 30px;
+    color: #868e96;
+}
+
+.app-text i{
+    font-size: 24px;
+    margin-right: 2px;
+    color: #feca4c;
+}
+.app-text a{
+    font-size: 26px;
+    font-weight: lighter;
+}
+
+
+.project-bar{
+    margin-top: 80px;
+    margin-left: 30px;
+    font-size: 50px;
+    
+}
+.project-text{
+    font-weight: 800;
+}
+
+.project-box1{
+    display: flex;
+}
+
+.project-box2{
+    display: flex;
+}
+.amazon{
+    
+    margin-top: 40px;
+    margin-right: 80px;
+    margin-left: 20px;
+    height: 150px;
+    width: 650px;
+    background-color:white;
+    box-shadow:0px 4px 20px rgba(0, 0, 0, 0.1);
+    
+}
+.landing{
+    
+    margin-top: 40px;
+    height: 150px;
+    width: 650px;
+    background-color:white;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    
+}
+
+.portfolio{
+    
+    margin-top: 30px;
+    margin-right: 80px;
+    margin-left: 20px;
+    height: 150px;
+    width: 650px;
+    background-color:white;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    
+}
+
+.calculator{
+   
+    margin-top: 30px;
+    height: 150px;
+    width: 650px;
+    background-color:white;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    
+}
+.amazon-text{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 28px;
+}
+.amazon-text i{
+    font-size: 25px;
+    color: black;
+}
+
+
+.amazon-text p{
+    font-size: 20px;
+    margin-top: 10px;
+    color: #868e96;;
+}
+
+.third{
+    margin-top: 10px;
+}
+
+.third a{
+    color: #868e96;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.third i{
+    font-size: 15px;
+    color:#feca4c;
+    ;
+}
+
+.certificate-bar{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.certificate-text a{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.certificate-text i{
+    font-size: 38px;
+    color: #feca4c;
+}
+
+.certificate-text  p{
+    color: #868e96;
+}
+
+.certificate-card{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    
+}
+
+.card1{
+    height: 540px;
+    width: 380px;
+    background-color: white;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card2{
+    margin-left: 50px;
+    height: 540px;
+    width: 380px;
+    background-color: white;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card3{
+    margin-left: 50px;
+    height: 540px;
+    width: 380px;
+    background-color: white;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card1 img{
+    margin-top: 20px;
+    height: 270px;
+    width: 350px;
+    
+}
+
+.card1-text h3{
+    margin-top: 10px;
+   font-size: 18px;
+}
+
+.card1-text p{
+    margin-top: 20px;
+    font-size: 19px;
+    color: #868e96;
+}
+
+.card2 img{
+    margin-top: 20px;
+    height: 270px;
+    width: 350px;
+        
+}
+
+.card3 img{
+    margin-top: 20px;
+    height: 270px;
+    width: 350px;
+        
+}
+
+.reach-section{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.reach-text a{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.reach-text p{
+    color: #868e96;
+    margin-top: 10px;
+
+}
+
+.reach-text2{
+   
+    margin-top: 10px;
+    font-size: 24px;
+
+}
+
+.profile-pic{
+    margin-top: 20px;
+}
+
+.profile-pic p{
+    margin-top: 20px;
+}
+.circle{
+    height: 250px;
+    width: 250px;
+    border-radius:125px;
+    background-color:black;
+    margin-left: 1100px;
+    transform: translateY(-90%);
+}
+
+.circle p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(380%);
+    font-size: 25px;
+    color: white;
+}
